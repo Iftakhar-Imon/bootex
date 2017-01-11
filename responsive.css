@@ -1,0 +1,27 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+   
+   .row1 h1{
+   	font-size: 16px;
+
+   }
+.team p{
+	margin-bottom: 50px; 
+}
+.aibr{
+	margin-top: 50px;
+	border: 2px solid green;
+}
+.alo{
+	margin-top: 20px;
+}
+
+}

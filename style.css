@@ -1,0 +1,171 @@
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+
+html,
+body { height: 100% }
+.clear{
+    overflow: hidden;
+}
+body {
+    font-family: 'Titillium Web', serif;
+}
+.exam {
+	/*border:2px solid red;*/
+	padding-top: 20px; 
+}
+.navbar-default{
+	width: 100%;
+	/*border: 2px solid green;*/
+	background-color: transparent;
+	border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a{
+	/*border:2px solid red;*/
+}
+.ali img{
+   width: 100%;
+}
+.navbar-brand {
+	text-decoration: none;
+	font-size: 40px;
+	color: #87509C;
+
+}
+.row1 {
+ text-align: center;
+ margin-top:40px; 
+
+}
+.row1 h1{
+   font-size: 55px;
+   word-spacing: 10px;
+   font-weight: normal;
+   letter-spacing: 3px 
+}
+.row2 {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+
+.team {
+}
+.team span{
+	font-size: 25px; 
+}
+.team p{
+	font-size: 20px;
+}
+
+.picture{
+	/*border:2px solid red;*/
+	width: 100%;
+}
+.row{
+	
+}
+.team1{
+	/*border: 2px solid green;*/
+	
+}
+.team1 img{
+	/*width: 300px;*/
+	/*border: 2px solid blue;*/
+	
+}
+.abr{
+	/*padding-bottom: 20px;*/
+	margin-top: 20px;
+	/*border: 2px solid red;*/
+	margin-bottom: 20px;
+	height: 200px;
+}
+.abr img{
+	width: 100%;
+	height: 200px;
+}
+.team2{
+
+}
+.team2 img{
+	width: 100%;
+	/*border: 2px solid green;*/
+    height: 600px;
+    margin-top: 20px;
+    /*position: relative;*/
+}
+.team2 p{
+   /*position: absolute;*/
+   background: #4b6377;
+   color: #fff ;
+   font-size: 20px;
+   margin-top:-10px;
+
+  /*background-color: transparent;*/
+}
+.ID{
+   width: 100%;
+   padding-top: 40px;
+}
+.modhu{
+	width: 100%;
+	margin-bottom: 10px;
+	/*margin-top: 10px;*/
+	/*background-color:#eee;*/
+}
+.form-control{
+	background-color: #eee;
+}
+.btn-warning4{
+    /*color: #F7F3EA;*/
+    /*background-color: #EB7D4B;*/
+    /*border-color: #EB7D4B;*/
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.alo{
+	/*border: 2px solid red;*/
+}
+.alo img{
+
+	width: 100%;
+}
+.footer{
+
+}
+.loga img{
+   width: 100%
+}
+.loga1 h4{
+	padding-top: 30px;
+	width: 50%;
+	/*border: 2px solid green;*/
+}
+ .loga2 ul>li>a {
+ 	/*border: 2px solid red;*/
+ 	margin-top: -60px;
+ }
+
+
+
+
+
+
